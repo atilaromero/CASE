@@ -13,3 +13,7 @@ Na ontologia CASE, as classes e subclasses de Enumeration, OrderedList, Property
 O alinhamento em si foi simples e consistiu em identificar quais classes da ontologia CASE possuiam classe superior ou equivalente na ontologia DUL.
 
 Os seguintes alinhamentos foram identificados:
+ - Action-Action
+ - ActionLifecycle-Task
+ - Location-PhysicalPlace
+ - Role-Role
