@@ -6,7 +6,7 @@
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@base <http://case.example.org/core> .
+@base <https://raw.githubusercontent.com/atilaromero/CASE-DUL/master/case.ttl> .
 
 <https://raw.githubusercontent.com/atilaromero/CASE-DUL/master/case.ttl> rdf:type owl:Ontology ;
                                 owl:priorVersion 0.0 ;
