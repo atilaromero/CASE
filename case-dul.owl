@@ -18,6 +18,10 @@
         <Class IRI="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Action"/>
         <Class IRI="https://raw.githubusercontent.com/atilaromero/CASE-DUL/master/case.ttl#Action"/>
     </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Task"/>
+        <Class IRI="https://raw.githubusercontent.com/atilaromero/CASE-DUL/master/case.ttl#ActionLifecycle"/>
+    </EquivalentClasses>
 </Ontology>
 
 
