@@ -1,4 +1,4 @@
-@prefix : <http://case.example.org/core#> .
+@prefix : <https://raw.githubusercontent.com/atilaromero/CASE-DUL/master/case.ttl#> .
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix olo: <http://purl.org/ontology/olo/core#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
@@ -8,7 +8,7 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @base <http://case.example.org/core> .
 
-<http://case.example.org/core> rdf:type owl:Ontology ;
+<https://raw.githubusercontent.com/atilaromero/CASE-DUL/master/case.ttl> rdf:type owl:Ontology ;
                                 owl:priorVersion 0.0 ;
                                 owl:versionInfo "0.1"^^xsd:string ;
                                 dc:title "Cyber-investigation Analysis Schema Expression (CASE)"^^xsd:string .
