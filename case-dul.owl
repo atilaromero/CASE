@@ -6,6 +6,7 @@
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      ontologyIRI="https://github.com/atilaromero/CASE-DUL/blob/master/case-dul.owl">
+    <Prefix name="" IRI="https://github.com/atilaromero/CASE-DUL/blob/master/case-dul.owl"/>
     <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
     <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
     <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
@@ -13,6 +14,10 @@
     <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
     <Import>http://www.ontologydesignpatterns.org/ont/dul/DUL.owl</Import>
     <Import>https://raw.githubusercontent.com/atilaromero/CASE-DUL/master/case.ttl</Import>
+    <EquivalentClasses>
+        <Class IRI="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Action"/>
+        <Class IRI="https://raw.githubusercontent.com/atilaromero/CASE-DUL/master/case.ttl#Action"/>
+    </EquivalentClasses>
 </Ontology>
 
 
