@@ -23,6 +23,10 @@
         <Class IRI="https://raw.githubusercontent.com/atilaromero/CASE-DUL/master/case.ttl#Location"/>
     </EquivalentClasses>
     <EquivalentClasses>
+        <Class IRI="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role"/>
+        <Class IRI="https://raw.githubusercontent.com/atilaromero/CASE-DUL/master/case.ttl#Role"/>
+    </EquivalentClasses>
+    <EquivalentClasses>
         <Class IRI="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Task"/>
         <Class IRI="https://raw.githubusercontent.com/atilaromero/CASE-DUL/master/case.ttl#ActionLifecycle"/>
     </EquivalentClasses>
